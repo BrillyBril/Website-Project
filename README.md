@@ -10,3 +10,4 @@ Incorporated languages:
 - PHP
 - HTML
 - CSS
+- JavaScript
