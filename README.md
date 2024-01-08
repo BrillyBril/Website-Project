@@ -5,7 +5,7 @@ For quick reference, the name replays is mentioned in this repository as that is
 
 This website was made with the intentions to show users information and display website owner's contact information
 
-Incorporated languages: 
+Incorporated language(s): 
 
 - PHP
 - HTML
