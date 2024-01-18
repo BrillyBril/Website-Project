@@ -1,13 +1,15 @@
-﻿# Website-Project
-Hello all viewing this project, 
+👋 Hello there! Welcome to the replays' Website Project.
 
-For quick reference, the name replays is mentioned in this repository as that is the alias I use, thank you.
+For quick reference, I go by the alias replays. Thanks for checking out this repository!
 
-This website was made with the intentions to show users information and display website owner's contact information
+🌐 Project Overview:
+This website is designed to provide users with information and showcase the contact details of the website owner.
 
-Incorporated language(s): 
+🚀 Technologies Used:
 
-- PHP
-- HTML
-- CSS
-- JavaScript
+PHP
+HTML
+CSS
+JavaScript
+Feel free to explore the code and don't hesitate to reach out if you have any questions or suggestions!
+
