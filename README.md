@@ -1,4 +1,4 @@
-👋 Hello there! Welcome to the replays' Website Project.
+👋 Hello there! Welcome to the Replays' Website Project.
 
 For quick reference, I go by the alias replays. Thanks for checking out this repository!
 
@@ -7,9 +7,10 @@ This website is designed to provide users with information and showcase the cont
 
 🚀 Technologies Used:
 
-PHP
-HTML
-CSS
-JavaScript
+- PHP
+- HTML
+- CSS
+- JavaScript
+
 Feel free to explore the code and don't hesitate to reach out if you have any questions or suggestions!
 
